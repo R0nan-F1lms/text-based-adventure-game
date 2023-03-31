@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/RonansWork/TAFE/C-sharp/Workshops/Week_5/TextAdventureGame/TextAdventureGame/TextAdventureGame.csproj": {}
+  },
+  "projects": {
+    "/Volumes/RonansWork/TAFE/C-sharp/Workshops/Week_5/TextAdventureGame/TextAdventureGame/TextAdventureGame.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/RonansWork/TAFE/C-sharp/Workshops/Week_5/TextAdventureGame/TextAdventureGame/TextAdventureGame.csproj",
+        "projectName": "TextAdventureGame",
+        "projectPath": "/Volumes/RonansWork/TAFE/C-sharp/Workshops/Week_5/TextAdventureGame/TextAdventureGame/TextAdventureGame.csproj",
+        "packagesPath": "/Users/ronan/.nuget/packages/",
+        "outputPath": "/Volumes/RonansWork/TAFE/C-sharp/Workshops/Week_5/TextAdventureGame/TextAdventureGame/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ronan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
